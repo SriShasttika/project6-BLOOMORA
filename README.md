@@ -1,6 +1,7 @@
-🍀 BLOOMORA
-Bloomora represents growth, harmony, and the natural beauty of plants
-Your dream of having a beautiful, green, eco-friendly space can become a reality with Bloomora.” 🌿
+# 🍀 BLOOMORA <br>
+<b><i>
+Bloomora represents growth, harmony, and the natural beauty of plants<br>
+Your dream of having a beautiful, green, eco-friendly space can become a reality with Bloomora.” 🌿<br><i><b>
 ## <b>  🗃️ Repository <b>
 
 | REPOSITORY  NAME | DESCRIPTION |
