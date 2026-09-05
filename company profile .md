@@ -1,6 +1,7 @@
- # company profile 🍀
+ # company profile 
+ ## company name: Bloomora🍀
 
-<b>Tagline: “Turning Dreams into Green Spaces🌿.”<br><b>
+<i><b>Tagline:🪴 “Turning Dreams into Green Spaces🌿.”<br><b><i>
 
 ## 📌About us : <br>
 
